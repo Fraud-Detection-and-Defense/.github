@@ -1,12 +1,5 @@
-## Hi there 👋
+# Fraud Detection & Defense (FDD)
+Your mission, should you choose to accept it, is to detect and defend the [Gitcoin ecosystem](https://gitcoin.co) from fraud attacks!
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Tasks
+We have a [private Trello organization](https://trello.com/gtcfdd) with task boards relevant to all that we do at FDD alongside links to any resources you may need.
