@@ -2,4 +2,6 @@
 Your mission, should you choose to accept it, is to detect and defend the [Gitcoin ecosystem](https://gitcoin.co) from fraud attacks!
 
 ## Tasks
-We have a [private Trello organization](https://trello.com/gtcfdd) with task boards relevant to all that we do at FDD alongside links to any resources you may need.
+1. Read the FDD Review
+2. Check out our projects
+3. Slay Sybils
