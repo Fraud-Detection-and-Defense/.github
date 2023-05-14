@@ -1,3 +1,7 @@
+# The FDD no longer exists as a Gitcoin workstream
+The responsibilities have been taken up by team members now in the Passport and Allo workstreams within Gitcoin
+Additionally, the OpenData Community now maintains data sets and Legos for Sybil detection previously mantained by the FDD.  
+
 # Fraud Detection & Defense (FDD)
 Our mission is to detect and defend the [Gitcoin ecosystem](https://gitcoin.co) from fraud attacks and threats to its legitimacy, credible neutrality and sustainability.
 
